@@ -45,7 +45,7 @@ function Header() {
             <div className={styles.client}>
               <img src={clients} alt="Real image of customers" />
               <p>
-                +250.000 alunos <span>★★★★★</span>
+                +53.000 alunos <span>★★★★★</span>
               </p>
             </div>
           </div>

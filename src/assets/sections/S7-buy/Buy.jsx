@@ -84,7 +84,7 @@ function Buy() {
         </ul>
         <div className={styles.client}>
           <p>
-            +250.000 alunos <span>★★★★★</span>
+            +53.000 alunos <span>★★★★★</span>
           </p>
         </div>
       </div>

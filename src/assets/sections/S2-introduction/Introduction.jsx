@@ -19,20 +19,35 @@ function Introduction() {
           <div className={styles.textTop}>
             <h1>INTRODUÇÃO</h1>
             <p>
-              Você sabia que a chave para entender e curar nossas dores físicas e
-              emocionais pode estar na forma como entendemos a realidade e nosso próprio
-              corpo? Vou lhe mostrar uma nova perspectiva da medicina, que mudou minha
-              vida e a de muitos outros.
+              Descubra a única forma inteligente de transformar sua vida, aprendendo como
+              construir uma rotina focada em Deus e no propósito real – uma habilidade
+              espiritual e pessoal que ninguém pode tirar de você.
+              <br />
+              <br />
+              E, sim, VOCÊ pode começar essa jornada agora.
+              <br />
+              <br />
+              Apenas dê o “start” para alinhar sua vida aos planos de Deus e, pouco a
+              pouco, de forma realista e com fé, você avançará rumo a uma vida plena,
+              equilibrada e cheia de significado.
             </p>
           </div>
           <div className={styles.textBot}>
             <h1>HISTÓRIA PESSOAL</h1>
             <p>
-              Eu sou médica e, mais do que isso, também fui paciente. A tristeza da morte
-              do meu amado filho, Joaquim, me lançou em uma espiral de depressão. Mas foi
-              essa dor que me levou a descobrir a medicina energética e a física quântica.
-              Essa jornada não só me curou da depressão como também revelou uma nova forma
-              de entender e tratar as doenças.
+              Luiz Ricardo e Alexander Nunes desenvolveram este e-book para ajudar
+              famílias a encontrarem propósito e construírem uma rotina guiada por Deus,
+              sem se perderem nas distrações do dia a dia.
+              <br />
+              <br />
+              Apesar de hoje viverem uma vida plena e realizada, Luiz e Alexander já
+              estiveram no seu lugar e entendem os desafios que você enfrenta.
+              <br />
+              <br />
+              Eles já passaram por dificuldades como viver em uma casa simples, lidar com
+              o estresse das dívidas e encarar trabalhos desafiadores enquanto buscavam
+              sentido para suas vidas. Suas histórias são a prova de que, com fé,
+              disciplina e o foco certo, a transformação é possível para todos.
             </p>
             <button
               className="btn-primary button"

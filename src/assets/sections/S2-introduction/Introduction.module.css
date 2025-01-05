@@ -53,6 +53,12 @@
     text-align: center;
     margin-top: 55px;
   }
+  span {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 55px;
+  }
 }
 
 @media (max-width: 1050px) {
