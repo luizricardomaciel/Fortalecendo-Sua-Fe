@@ -11,7 +11,7 @@ function Clients() {
     <section id="S5-clients">
       <div className="container">
         <div className={styles.content}>
-          <h1>Depiomentos</h1>
+          <h1>Depoimentos</h1>
           <Swiper
             className={styles.clients}
             spaceBetween={50}

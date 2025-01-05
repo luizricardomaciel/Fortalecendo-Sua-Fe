@@ -25,7 +25,7 @@ function Header() {
               </h1>
               <p>
                 Finalmente! Baixe o novo e-book{" "}
-                <span>"Fortalendo Sua fé” com Deus em 7 Dias</span> e descubra como criar
+                <span>"Fortalendo Sua fé com Deus em 7 Dias”</span> e descubra como criar
                 uma <span>rotina espiritual</span> sem perder tempo.
               </p>
             </div>
