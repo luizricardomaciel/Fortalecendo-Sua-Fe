@@ -46,7 +46,11 @@ function Buy() {
           </span>
           <h1>R$19,90</h1>
         </div>
-        <a href="#" className="btn-primary button">
+        <a
+          href="https://pay.kiwify.com.br/Bp0uAaq"
+          className="btn-primary button"
+          target="_blank"
+        >
           Quero comprar com desconto
         </a>
         <h1 className={styles.title}>Resumo de tudo que você vai receber:</h1>

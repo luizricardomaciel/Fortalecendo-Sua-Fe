@@ -29,7 +29,11 @@ function Warranty() {
             agora.
           </p>
         </div>
-        <a href="#" className="btn-primary button">
+        <a
+          href="https://pay.kiwify.com.br/Bp0uAaq"
+          className="btn-primary button"
+          target="_blank"
+        >
           Liberar acesso por apenas R$19,90
         </a>
       </div>
