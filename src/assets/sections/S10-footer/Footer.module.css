@@ -1,4 +1,4 @@
-footer {
+.footer {
   padding: 50px 0;
   background-color: black;
 
@@ -12,7 +12,7 @@ footer {
 }
 
 @media (max-width: 770px) {
-  footer {
+  .footer {
     padding-top: 20px;
   }
 }
