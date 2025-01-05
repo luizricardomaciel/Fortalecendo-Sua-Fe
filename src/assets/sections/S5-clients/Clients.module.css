@@ -25,6 +25,7 @@
       font-weight: bold;
     }
     .bot {
+      margin-top: 8px;
       height: 100%;
     }
   }
