@@ -1,0 +1,79 @@
+.spacer {
+  aspect-ratio: 960/300;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  margin-top: 144px;
+  padding-bottom: 405px;
+}
+
+.layer1 {
+  background-image: url("../../images/layered-waves-haikei.svg");
+}
+
+.content {
+  padding-top: 144px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 55px;
+
+  .right {
+    width: 100%;
+    max-width: 592px;
+
+    p {
+      font-size: 18px;
+      line-height: 23px;
+
+      span {
+        font-weight: bold;
+      }
+    }
+    .sevenDays {
+      margin-top: 34px;
+    }
+    button {
+      margin-top: 55px;
+    }
+  }
+}
+
+@media (max-width: 1050px) {
+  .spacer {
+    margin-top: 89px;
+  }
+}
+
+@media (max-width: 775px) {
+  .spacer {
+    margin-top: 55px;
+  }
+
+  .content {
+    padding-top: 34px;
+    flex-direction: column;
+    gap: 34px;
+
+    .right {
+      display: flex;
+      flex-direction: column;
+
+      .sevenDays {
+        margin-top: 21px;
+      }
+      button {
+        margin-top: 21px;
+      }
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .spacer {
+    margin-top: 34px;
+  }
+}

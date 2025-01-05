@@ -1,0 +1,53 @@
+.content {
+  margin-top: 55px;
+  h1 {
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+
+    color: #000000;
+  }
+
+  .clients {
+    margin-top: 144px;
+
+    .client {
+      background-color: rgba(255, 189, 89, 0.26);
+      padding: 34px 34px 21px 34px;
+      border-radius: 8px;
+    }
+
+    .top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      font-weight: bold;
+    }
+    .bot {
+      margin-top: 21px;
+    }
+  }
+}
+
+@media (max-width: 775px) {
+  .content {
+    margin-top: 0;
+
+    h1 {
+      font-size: 29px;
+    }
+
+    .clients {
+      margin-top: 89px;
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .content {
+    .clients {
+      margin-top: 55px;
+    }
+  }
+}
