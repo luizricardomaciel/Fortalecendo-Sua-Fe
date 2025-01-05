@@ -3,6 +3,7 @@
   --secondary: #5d6268;
 }
 
+html,
 body {
   overflow-x: hidden;
 }
