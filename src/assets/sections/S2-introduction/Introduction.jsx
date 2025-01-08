@@ -35,19 +35,19 @@ function Introduction() {
           <div className={styles.textBot}>
             <h1>HISTÓRIA PESSOAL</h1>
             <p>
-              Luiz Ricardo e Alexander Nunes desenvolveram este e-book para ajudar
-              famílias a encontrarem propósito e construírem uma rotina guiada por Deus,
-              sem se perderem nas distrações do dia a dia.
+              Alexander Nunes desenvolveu este e-book para ajudar famílias a encontrarem
+              propósito e construírem uma rotina guiada por Deus, sem se perderem nas
+              distrações do dia a dia.
               <br />
               <br />
-              Apesar de hoje viverem uma vida plena e realizada, Luiz e Alexander já
-              estiveram no seu lugar e entendem os desafios que você enfrenta.
+              Apesar de hoje viver uma vida plena e realizada, Alexander já esteve no seu
+              lugar e entende os desafios que você enfrenta.
               <br />
               <br />
-              Eles já passaram por dificuldades como viver em uma casa simples, lidar com
-              o estresse das dívidas e encarar trabalhos desafiadores enquanto buscavam
-              sentido para suas vidas. Suas histórias são a prova de que, com fé,
-              disciplina e o foco certo, a transformação é possível para todos.
+              Ele já passou por dificuldades como viver em uma casa simples, lidar com o
+              estresse das dívidas e encarar trabalhos desafiadores enquanto buscava
+              sentido para sua vida. Sua história é a prova de que, com fé, disciplina e o
+              foco certo, a transformação é possível para todos.
             </p>
             <button
               className="btn-primary button"
