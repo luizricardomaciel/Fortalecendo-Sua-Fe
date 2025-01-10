@@ -44,10 +44,13 @@ function Introduction() {
               lugar e entende os desafios que você enfrenta.
               <br />
               <br />
-              Ele já passou por dificuldades como viver em uma casa simples, lidar com o
-              estresse das dívidas e encarar trabalhos desafiadores enquanto buscava
-              sentido para sua vida. Sua história é a prova de que, com fé, disciplina e o
-              foco certo, a transformação é possível para todos.
+              Você já se viu lutando muito para terminar uma leitura simples da Bíblia,
+              tentando focar em ler antes de qualquer coisa no seu dia, mas terminando
+              meio desanimado pelo rendimento? Alexander também passou por isso. Ele sabe
+              como é difícil manter a disciplina e encontrar motivação quando os
+              resultados parecem não corresponder ao esforço. Mas ele também sabe que, com
+              a orientação certa, é possível superar esses desafios e viver uma vida plena
+              e realizada.
             </p>
             <button
               className="btn-primary button"
