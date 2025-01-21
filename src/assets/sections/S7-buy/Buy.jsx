@@ -39,7 +39,7 @@ function Buy() {
         />
         <div className={styles.price}>
           <p>
-            De <span>R$197,00</span>
+            De <span>R$97,00</span>
           </p>
           <span>
             <p>Por apenas</p>
